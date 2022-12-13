@@ -1,4 +1,4 @@
-package com.fearaujo;
+package com.victormoura;
 
 import java.util.Arrays;
 import java.util.InputMismatchException;

@@ -1,4 +1,4 @@
-package com.fearaujo;
+package com.victormoura;
 
 import static org.junit.Assert.*;
 
